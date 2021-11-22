@@ -984,7 +984,6 @@ ${UI.display_drive_link ? '<a type="button" class="btn btn-info" href="https://d
       <a class="dropdown-item" href="intent:${url}#Intent;package=com.mxtech.videoplayer.ad;S.title=${decodename};end">MX Player (Free)</a>
       <a class="dropdown-item" href="intent:${url}#Intent;package=com.mxtech.videoplayer.pro;S.title=${decodename};end">MX Player (Pro)</a>
       <a class="dropdown-item" href="potplayer://${url}">PotPlayer</a>
-      <a class="dropdown-item" href="mpc-hc64://${url}">mpc-hc64</a>
     </div>
 </div>
 <button onclick="copyFunction()" onmouseout="outFunc()" class="btn btn-success"> <span class="tooltiptext" id="myTooltip">Copy</span> </button>
